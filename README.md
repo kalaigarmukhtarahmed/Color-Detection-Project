@@ -141,10 +141,8 @@ python app.py
 Kalaigar Mukhtar Ahmed 🎓 Engineering Student | Web Developer | Computer Vision
 
 ## 🧾 Conclusion
-
 This project demonstrates the practical implementation of real-time color detection using computer vision techniques. By leveraging HSV color space, masking, and contour detection, the system accurately identifies and highlights different colors under varying lighting conditions.
 
 The project provides a strong foundation for advanced applications such as object tracking, automation, and AI-based vision systems. It also showcases how efficient image processing techniques can be used without relying on complex machine learning models.
 
----
 ----
