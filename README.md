@@ -79,12 +79,12 @@ It identifies multiple colors and highlights them visually in real-time.
 ---
 ## 🧠 Models Used
 ```bash
-| Technique | Description |
-|----------|------------|
-| HSV Color Space | Used to represent colors in a way that is more robust to lighting conditions |
-| Color Thresholding | Detects specific colors using predefined HSV ranges |
-| Masking | Isolates regions of the image containing the target color |
-| Contour Detection | Identifies object boundaries for drawing bounding boxes |
+| Technique           | Description                                                                  |
+|---------------------|------------------------------------------------------------------------------|
+| HSV Color Space     | Used to represent colors in a way that is more robust to lighting conditions |
+| Color Thresholding  | Detects specific colors using predefined HSV ranges                          |
+| Masking             | Isolates regions of the image containing the target color                    |
+| Contour Detection   | Identifies object boundaries for drawing bounding boxes                      |
 ```
 ---
 ## 📂 Project Structure
